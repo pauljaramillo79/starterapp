@@ -61,3 +61,16 @@ npm i --save-dev nodemon
 ```
 "dev": "nodemon server.js"
 ```
+7) Open a new terminal window and cd into 'client' folder
+8) Check the current node js version being used
+```
+nvm list
+```
+9) Select the desired node js version
+```
+nvm use v22.13.1
+```
+11) Run the following command:
+```
+npx create-react-app .
+```
