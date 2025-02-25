@@ -57,7 +57,7 @@ npm i express
 npm i http
 npm i --save-dev nodemon
 ```
-6) Add the following script to the package.json file:
+6) Add the following line to the scripts dictionary in the package.json file:
 ```
 "dev": "nodemon server.js"
 ```
