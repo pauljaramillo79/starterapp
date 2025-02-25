@@ -47,6 +47,7 @@ yarn-error.log*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
 ```
+5) Run the following commands in terminal
 ```
 npm init -y
 npm i body-parser
