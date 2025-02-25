@@ -5,5 +5,11 @@
 3) Create a 'client' and 'server' subfolders
 4) Cd into 'server' folder and run the following in terminal
 ```
-npm init
+npm init -y
+npm i body-parser
+npm i cors
+npm i dotenv
+npm i express
+npm i http
+npm i --save-dev nodemon
 ```
